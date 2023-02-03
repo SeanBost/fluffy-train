@@ -1,0 +1,20 @@
+{
+  "name": "fluffy-train",
+  "version": "1.0.0",
+  "description": "I don't even like Winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanBost/fluffy-train.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanBost/fluffy-train/issues"
+  },
+  "homepage": "https://github.com/SeanBost/fluffy-train#readme"
+}
